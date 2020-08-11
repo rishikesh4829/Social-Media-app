@@ -53,7 +53,7 @@ For client:
 3.     npm init
 4.      npx i axios --save
 5.     npx i react-paginate --save
-6.    //client port number :3000
+6.     //client port number :3000
 
 For Run the project simply
 1.     cd new_p
