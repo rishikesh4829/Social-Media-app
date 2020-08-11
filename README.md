@@ -2,14 +2,14 @@
 Name
 The Social Media App
 
-Description
+Description :
 To start an API Server & a SPA (Single Page App - using any UI framework like React,Angular, Vue.JS for social media app.
 
-Prerequisites
+Prerequisites :
 
 This project required a editor which i had uses visual studio.And for Database i had  uses MySql.
 
-Mysql Database
+Mysql Database:
   
 1. For User Information:
 
@@ -34,13 +34,13 @@ First of all i had created a project by using command
 After that i create two Folder one for server and another for client like  this.
 
 For server:
-1.mkdir server
-2.cd server
-3.npm init
-4.npm install express --save
-5.npm install mysql  --save
-6.npm install body-parser --save
-7.npm i nodemon concurrently
+1.     mkdir server
+2.     cd server
+3.     npm init
+4.     npm install express --save
+5.     npm install mysql  --save
+6.     npm install body-parser --save
+7.     npm i nodemon concurrently
 8.//change in json file -: "start": "concurrently \"cd server &&
         nodemon server.js\" \"cd client && npm start\"" .
 :It will start sever and client concurrently.
