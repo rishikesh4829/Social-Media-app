@@ -1,5 +1,5 @@
 # Social-Media-app
-Name
+Name:
 The Social Media App
 
 Description :
@@ -12,18 +12,11 @@ Mysql Database:
   
 1. For User Information:
 
-       CREATE TABLE `friend` (
-      `user_id` int(11) NOT NULL,
-      `user_fname` varchar(200) DEFAULT NULL,
-      `user_lname` varchar(20) DEFAULT NULL
-)
+       CREATE TABLE `friend` (`user_id` int(11) NOT NULL,`user_fname` varchar(200) DEFAULT NULL,`user_lname` varchar(20) DEFAULT NULL)
 
 2.  For User’s Friend Information
 
-          CREATE TABLE `friend_f` (
-       `  id` int(11) NOT NULL,
-       `  friend_id` int(11) NOT NULL
-         ) 
+          CREATE TABLE `friend_f` ( `  id` int(11) NOT NULL,`  friend_id` int(11) NOT NULL ) 
 
 First of all i had created a project by using command
 
@@ -62,9 +55,9 @@ For Run the project simply
  Versioning:
 I had use
 
-1.     Visual studio code 1.47.3
-2      Nodemon 2.0.4
-2.     npm 6.14.6
+1.      Visual studio code 1.47.3
+2       Nodemon 2.0.4
+2.      npm 6.14.6
 
 
 
