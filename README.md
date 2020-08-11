@@ -41,19 +41,19 @@ For server:
 5.     npm install mysql  --save
 6.     npm install body-parser --save
 7.     npm i nodemon concurrently
-8.//change in json file -: "start": "concurrently \"cd server &&
+8.     //change in json file -: "start": "concurrently \"cd server &&
         nodemon server.js\" \"cd client && npm start\"" .
 :It will start sever and client concurrently.
  
 
 For client:
 
-1.npx  create-react-app client.
-2.cd client
-3.npm init
-4.npx i axios --save
-5.npx i react-paginate --save
-6.//client port number :3000
+1.    npx  create-react-app client.
+2.    cd client
+3.     npm init
+4.      npx i axios --save
+5.    npx i react-paginate --save
+6.    /client port number :3000
 
 For Run the project simply
 1.     cd new_p
