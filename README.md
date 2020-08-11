@@ -35,7 +35,7 @@ For server:
 7.     npm i nodemon concurrently
 8.     //change in json file -: "start": "concurrently \"cd server &&
         nodemon server.js\" \"cd client && npm start\"" .
-:It will start sever and client concurrently.
+It will start sever and client concurrently.
  
 
 For client:
@@ -55,12 +55,12 @@ For Run the project simply
  Versioning:
 I had use
 
-1.      Visual studio code 1.47.3
-2       Nodemon 2.0.4
-2.      npm 6.14.6
+1.          Visual studio code 1.47.3
+2           Nodemon 2.0.4
+3.          npm 6.14.6
 
 
 
 Authors
 
-Rishikesh Yadav.
+     Rishikesh Yadav.
