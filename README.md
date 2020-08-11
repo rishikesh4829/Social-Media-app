@@ -56,7 +56,7 @@ For Run the project simply
 I had use
 
 1.       Visual studio code 1.47.3
-2         Nodemon 2.0.4
+2.        Nodemon 2.0.4
 3.        npm 6.14.6
 
 
