@@ -48,11 +48,11 @@ For server:
 
 For client:
 
-1.    npx  create-react-app client.
-2.    cd client
-3.    npm init
-4.    npx i axios --save
-5.    npx i react-paginate --save
+1.     npx  create-react-app client.
+2.     cd client
+3.     npm init
+4.      npx i axios --save
+5.     npx i react-paginate --save
 6.    //client port number :3000
 
 For Run the project simply
